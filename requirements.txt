@@ -1,2 +1,7 @@
+numpy
+scipy
+torch
+librosa
 deepspeech
 webrtcvad
+pyqt5
