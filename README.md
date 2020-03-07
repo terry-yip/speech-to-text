@@ -54,10 +54,6 @@ The test wavs in the wavs folder are from movie sound clips. The speech accuracy
 - webrtcvad
 - deepspeech
 
-## License
-
-This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE.md) file for details
-
 ## References
 
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech)
